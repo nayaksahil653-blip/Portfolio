@@ -1,4 +1,3 @@
-<script>
 document.addEventListener('DOMContentLoaded', () => {
 
     // --- 1. Draggable Slider for Services Section ---
@@ -35,4 +34,4 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
 });
-</script>
+
