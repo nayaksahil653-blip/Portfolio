@@ -1,0 +1,46 @@
+
+<style>
+
+body{
+  margin:0;
+  font-family: Arial, sans-serif;
+}
+
+header{
+  background:#222;
+  color:white;
+  padding:20px;
+  display:flex;
+  justify-content:space-between;
+}
+
+nav a{
+  color:white;
+  margin-left:20px;
+  text-decoration:none;
+}
+
+.hero{
+  text-align:center;
+  padding:80px;
+  background:#f4f4f4;
+}
+
+section{
+  padding:60px;
+}
+
+.project{
+  background:#eee;
+  padding:20px;
+  margin-top:10px;
+}
+
+footer{
+  text-align:center;
+  background:#222;
+  color:white;
+  padding:20px;
+}
+
+</style>
